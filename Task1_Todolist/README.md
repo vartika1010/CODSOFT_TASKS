@@ -22,8 +22,8 @@ The **To-Do List Application** is a Python-based desktop application developed u
 ## Project Structure
 
 ```
-Task1_Toddolist/
-│── todo.py
+Task1_Todolist/
+│── todolist.py
 │── README.md
 ```
 
