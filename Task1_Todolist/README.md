@@ -34,7 +34,7 @@ Task1_Todolist/
 3. Run the following command:
 
 ```bash
-python todo.py
+python todolist.py
 ```
 
 4. The To-Do List window will open.
