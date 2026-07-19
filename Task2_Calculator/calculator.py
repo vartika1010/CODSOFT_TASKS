@@ -33,7 +33,7 @@ def calculate():
     global expression
     try:
         result = str(eval(expression))
-        display.delete(0, tk.END)
+        display.dielete(0, tk.END)
         display.insert(tk.END, result)
         expression = result
     except:
